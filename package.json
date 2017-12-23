@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.oschina.net:happymmall/mmall-fe.git"
+    "url": "https://gitee.com/yunduanjiuye/mmall-fe.git"
   },
-  "author": "Rosen",
+  "author": "lihaocheng",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^0.28.1",
